@@ -6,7 +6,7 @@
 Adoro a tecnologia em geral e fico fascinado em como ela vem evoluindo em uma velocidade absurda.
 Desejo muito pegar uma carona nesse foguete e evoluir junto!
 
-:rocket:  &nbsp; Estou trabalhando no **Grupo Scalco**
+:rocket:  &nbsp; Estou trabalhando no **Grupo Scalco**;
 <br/> :purple_heart: &nbsp; Ainda estou buscando uma linguagem em especifica, mas adoro Javascript e gosto também de Java;
 <br/> :computer: &nbsp; Mais Utilizo (Trabalho): Groovy, Spring e Flutter;
 <br/> :computer: &nbsp; Mais Gosto: ReactJS, Node.js e React Native;
