@@ -1,4 +1,4 @@
-<img width="auto" src="https://static.alphacoders.com/desktops/18250.jpg">
+<img width="auto" src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png">
 
 # Rafael Aranda Martins
 
