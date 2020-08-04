@@ -13,4 +13,4 @@ Desejo muito pegar uma carona nesse foguete e evoluir junto!
 <br/> 💬  &nbsp; Sobre mim: Adoro games | Objetivo principal é trabalhar no desenvolvimento de games | Gosto muito da programação mobile também;
 
 Utilizo mais o GitLab [![Linkedin Badge](https://img.shields.io/badge/-Skema1114-yellow?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/Skema1114/)](https://gitlab.com/Skema1114/)
-<br/>Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelArandaMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins/)](https://www.linkedin.com/in/rafaelarandamartins/)
+<br/>Entre em contato comigo [![Linkedin Badge](https://img.shields.io/badge/-RafaelArandaMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins/)](https://www.linkedin.com/in/rafaelarandamartins/)
