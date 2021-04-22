@@ -6,11 +6,12 @@
 Adoro a tecnologia em geral e fico fascinado em como ela vem evoluindo em uma velocidade absurda.
 Desejo muito pegar uma carona nesse foguete e evoluir junto!
 
-:rocket:  &nbsp; Estou trabalhando no **Grupo Scalco**;
-<br/> :purple_heart: &nbsp; Ainda estou buscando uma linguagem em específica, mas adoro Javascript, gosto também de Java e não consigo gostar de C, C++ (sorry);
-<br/> :computer: &nbsp; Mais Utilizo (Trabalho): Groovy, Spring e Flutter;
-<br/> :computer: &nbsp; Mais Gosto: React, Node.js e React Native;
-<br/> 💬  &nbsp; Sobre mim: Adoro games | Objetivo principal é me tornar pro-dev (haha) nas tecnologias: Node.js, React, React Native e Java | O plano B é ser desenvolvedor de games | E como missão opcional: Melhorar minhas habilidades de Photoshop e edição de vídeo.
+:computer: &nbsp; Estou procurando emprego;
+<br/> :computer: &nbsp; Adoro Javascript, SQL e gosto também de Java;
+<br/> :computer: &nbsp; Curto uns games, séries, programação e essas coisas geeks;
+<br/> :computer: &nbsp; Meu *objetivo principal* é me tornar pro-dev (haha) nas tecnologias: Node.js, React, React Native e Java;
+<br/> :computer: &nbsp; O meu *plano B* é ser um desenvolvedor de games;
+<br/> :computer: &nbsp; E como *missão opcional* eu quero melhorar minhas habilidades de Photoshop e edição de vídeo;
 
 <b>Utilizo mais o GitLab, então a maioria dos commits e projetos estão lá!</b>
 
