@@ -6,7 +6,7 @@
 Adoro a tecnologia em geral e fico fascinado em como ela vem evoluindo em uma velocidade absurda.
 Desejo muito pegar uma carona nesse foguete e evoluir junto!
 
-:computer: &nbsp; Desenvolvedor Trainee;
+:computer: &nbsp; Desenvolvedor Trainee na DBSystem;
 <br/> :computer: &nbsp; Adoro Javascript, Typescript, SQL e Java;
 <br/> :computer: &nbsp; Meu *objetivo principal* é ganhar bastante experiencia e buscar conhecimento para as stacks citadas acima;
 <br/> :computer: &nbsp; Já o meu *plano B* é ser um desenvolvedor de games;
