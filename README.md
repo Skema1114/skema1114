@@ -6,12 +6,12 @@
 Adoro a tecnologia em geral e fico fascinado em como ela vem evoluindo em uma velocidade absurda.
 Desejo muito pegar uma carona nesse foguete e evoluir junto!
 
-:computer: &nbsp; Estou procurando emprego;
-<br/> :computer: &nbsp; Adoro Javascript, SQL e gosto também de Java;
-<br/> :computer: &nbsp; Curto uns games, séries, programação e essas coisas geeks;
-<br/> :computer: &nbsp; Meu *objetivo principal* é me tornar pro-dev (haha) nas tecnologias: Node.js, React, React Native e Java;
-<br/> :computer: &nbsp; O meu *plano B* é ser um desenvolvedor de games;
-<br/> :computer: &nbsp; E como *missão opcional* eu quero melhorar minhas habilidades de Photoshop e edição de vídeo;
+:computer: &nbsp; Desenvolvedor Trainee;
+<br/> :computer: &nbsp; Adoro Javascript, Typescript, SQL e Java;
+<br/> :computer: &nbsp; Meu *objetivo principal* é ganhar bastante experiencia e buscar conhecimento para as stacks citadas acima;
+<br/> :computer: &nbsp; Já o meu *plano B* é ser um desenvolvedor de games;
+<br/> :computer: &nbsp; E como *missão opcional* eu estou buscando melhorar minhas habilidades de Photoshop e edição de vídeo;
+<br/> :computer: &nbsp; Mas a real é que eu quero unir tudo isso de alguma forma;
 
 <b>Utilizo mais o GitLab, então a maioria dos commits e projetos estão lá!</b>
 
