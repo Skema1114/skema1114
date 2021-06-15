@@ -15,4 +15,13 @@ Desejo muito pegar uma carona nesse foguete e evoluir junto!
 
 <b>Utilizo mais o GitLab, então a maioria dos commits e projetos estão lá!</b>
 
+## 
+
 [![GitHub Badge](https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Skema1114)](https://github.com/Skema1114)   [![GitLab Badge](https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Skema1114/)](https://gitlab.com/Skema1114/)   [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Aranda%20Martins-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins/)](https://www.linkedin.com/in/rafaelarandamartins/)   [![Instagram Badge](https://img.shields.io/badge/-Holdiny-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/holdiny/)](https://www.instagram.com/holdiny/)
+
+## 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
