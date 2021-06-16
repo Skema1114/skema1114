@@ -1,7 +1,7 @@
 <img width="auto" src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png">
 
 # Opa, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
-Me chamo **Rafael Aranda Martins**, adoro tecnologia e fico fascinado na velocidade que ela vem evoluindo, com isso estou pegando uma caroninha nesse foguete e buscando evoluir junto!
+Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia, fico fascinado na velocidade em que ela vem evoluindo e com isso estou pegando uma caroninha nesse foguete e buscando a evolução constante!
 
 <img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor Trainee na DBSystem;
 <br/> <img src="https://media.giphy.com/media/l46C9SKKVKkfp3dlu/giphy.gif" width="20px"> &nbsp; Adoro Javascript, Typescript, SQL e Java;
