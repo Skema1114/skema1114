@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png">
+<img src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png" width="auto">
 
 # Opa, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
 Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia, fico fascinado na velocidade em que ela vem evoluindo e com isso estou pegando uma caroninha nesse foguete e buscando a evolução constante!
@@ -12,12 +12,24 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 
 ## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25px">
 
-[![GitHub Badge](https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Skema1114)](https://github.com/Skema1114)   [![GitLab Badge](https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Skema1114/)](https://gitlab.com/Skema1114/)   [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Aranda%20Martins-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins/)](https://www.linkedin.com/in/rafaelarandamartins/)   [![Instagram Badge](https://img.shields.io/badge/-Holdiny-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/holdiny/)](https://www.instagram.com/holdiny/)
+<img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Skema1114" alt="GitHub Badge" width="auto"> <img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Skema1114" alt="GitLab Badge" width="auto"> <img src="https://img.shields.io/badge/-Rafael%20Aranda%20Martins-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins" alt="LinkeDin Badge" width="auto"> <img src="https://img.shields.io/badge/-Holdiny-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/holdiny" alt="Instagram Badge" width="auto">
 
 ## Estatísticas <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="700">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&range=last_7_days" alt="GitHub Stats" width="700">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+```bash    
+          @skema1114's 2020 GitHub Skyline           
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+  ☽          ▁              ✦                        
+           ✦ █      ✦ ✧               ✧            ✧ 
+      ▁▁     █      ✧▇✦  ▁ ✧   ▁                     
+      ██     █     ▇▄█▂▂ █     █✧▂           ▂  ▂   ▇
+      ██▂✧  ▇█   ✦✧█████▂█  ▂▅ █ █         ✧▅█  █   █
+▁▁▁▁▁▁███▁▁▁██▁▅▁▁▁███████▁▁██▁█▁█▁▁▁▁▁▁▁▁▁▁██▅▁█▁▁▁█
+
+      https://skyline.github.com/skema1114/2020      
+```
+
