@@ -25,6 +25,6 @@ Desejo muito pegar uma carona nesse foguete e evoluir junto!
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 
