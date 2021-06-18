@@ -23,4 +23,4 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
-![skema1114 snake commit](https://github.com/skema1114/Skema1114/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/skema1114/skema1114/output/github-contribution-grid-snake.svg)
