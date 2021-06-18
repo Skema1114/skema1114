@@ -1,6 +1,7 @@
 <img src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png" width="auto">
 
 # Opa, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
+
 Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia, fico fascinado na velocidade em que ela vem evoluindo e com isso estou pegando uma caroninha nesse foguete e buscando a evolução constante!
 
 <img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor Trainee na DBSystem;
@@ -19,3 +20,7 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="700">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&range=last_7_days" alt="GitHub Stats" width="700">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
+
+<!-- platane/snk works, it just puts it on a new branch -->
+
+![skema1114 snake commit](https://github.com/skema1114/Skema1114/blob/output/github-contribution-grid-snake.svg)
