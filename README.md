@@ -20,5 +20,3 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="700">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&range=last_7_days" alt="GitHub Stats" width="700">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
-
-<img src="https://github.com/Skema1114/Skema1114/blob/master/github-user-contribution.svg" alt="Snake commit manual" width="700">
