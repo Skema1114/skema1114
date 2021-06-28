@@ -19,10 +19,10 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
+🏆  1,004 Karma Points           
+🌸  Completed 16 tasks today           
+✅  Completed 22 tasks so far           
+⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&&custom_title=Minhas Estatísticas do GitHub" alt="Estatísticas do GitHub" width="700">
