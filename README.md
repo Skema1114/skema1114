@@ -15,7 +15,7 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 
 <img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Skema1114" alt="GitHub Badge" width="auto"> <img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Skema1114" alt="GitLab Badge" width="auto"> <img src="https://img.shields.io/badge/-Rafael%20Aranda%20Martins-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins" alt="LinkeDin Badge" width="auto"> <img src="https://img.shields.io/badge/-Holdiny-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/holdiny" alt="Instagram Badge" width="auto">
 
-## Estatísticas de Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
+## Estatísticas das Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
 <!-- TODO-IST:START -->
 <img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **1,004** pontos de Karma;           
@@ -26,11 +26,11 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 
 ## Estatísticas Gerais do GitHub <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&&custom_title=Minhas Estatísticas do GitHub" alt="Estatísticas do GitHub" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas do GitHub" width="700">
 
 ## Estatísticas Gerais do WakaTime <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Minhas Estatísticas do WakaTime" alt="Tempo gasto nas linguagens" width="700">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens" width="700">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
 ## Animação Snake comendo meus commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
