@@ -1,8 +1,8 @@
 <img src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png" width="auto">
 
-# Opa, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
+# Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
 
-Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia, fico fascinado na velocidade em que ela vem evoluindo e com isso estou pegando uma caroninha nesse foguete e buscando a evolução constante!
+Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programação e games. Fico fascinado na velocidade em que essas coisas vem evoluindo e junto disso busco pegar uma caroninha e também buscar a evolução constante.
 
 <img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor Trainee na DBSystem;
 <br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro Javascript, Typescript, SQL e Java;
@@ -25,7 +25,10 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 <a href="https://www.instagram.com/holdiny/">
   <img align="left" alt="Holdiny | Instagram" width="38px" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" />
 </a>
-<br/>
+<a href="https://open.spotify.com/user/skema1114">
+  <img align="left" alt="Skema1114 | Spotify" width="34px" src="https://media.giphy.com/media/alxwuUFuJmVEJb3PDg/giphy.gif" />
+</a>
+<br />
 
 ## Estatísticas das Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
@@ -48,3 +51,18 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 ## Animação Snake comendo meus commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
 
 <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Snake commits" width="700">
+
+<!--
+<details>
+  <summary>Me encontre (non-business)</summary>
+
+  <br />
+  
+  <a href="https://www.instagram.com/holdiny/">
+    <img align="left" alt="Holdiny | Instagram" width="38px" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" />
+  </a>
+  <a href="https://open.spotify.com/user/skema1114">
+    <img align="left" alt="Skema1114 | Spotify" width="34px" src="https://media.giphy.com/media/alxwuUFuJmVEJb3PDg/giphy.gif" />
+  </a>
+</details>
+-->
