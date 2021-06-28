@@ -15,15 +15,16 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 
 <img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Skema1114" alt="GitHub Badge" width="auto"> <img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Skema1114" alt="GitLab Badge" width="auto"> <img src="https://img.shields.io/badge/-Rafael%20Aranda%20Martins-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins" alt="LinkeDin Badge" width="auto"> <img src="https://img.shields.io/badge/-Holdiny-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/holdiny" alt="Instagram Badge" width="auto">
 
-## Estatísticas <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
+## Estatísticas de Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
-🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  1,004 Karma Points           
-🌸  Completed 16 tasks today           
-✅  Completed 22 tasks so far           
-⏳  Longest streak is 2 days
+<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **1,004** pontos de Karma;  
+<img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **16** tarefas hoje;      
+<img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20px"> Completei **22** tarefas no total;       
+<img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **2** dias;
 <!-- TODO-IST:END -->
+
+## Estatísticas Gerais do GitHub <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&&custom_title=Minhas Estatísticas do GitHub" alt="Estatísticas do GitHub" width="700">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Minhas Estatísticas do WakaTime" alt="Tempo gasto nas linguagens" width="700">
