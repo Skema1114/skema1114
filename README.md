@@ -5,7 +5,7 @@
 Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia, fico fascinado na velocidade em que ela vem evoluindo e com isso estou pegando uma caroninha nesse foguete e buscando a evolução constante!
 
 <img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor Trainee na DBSystem;
-<br/> <img src="https://media.giphy.com/media/l46C9SKKVKkfp3dlu/giphy.gif" width="20px"> &nbsp; Adoro Javascript, Typescript, SQL e Java;
+<br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro Javascript, Typescript, SQL e Java;
 <br/> <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="20px"> &nbsp; Meu **objetivo principal** é ganhar bastante experiencia e buscar conhecimento para as stacks citadas acima;
 <br/> <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" width="20px"> &nbsp; Já o meu **plano B** é ser um desenvolvedor de games;
 <br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20px"> &nbsp; E como **missão opcional** eu estou buscando melhorar minhas habilidades de Photoshop e edição de vídeo;
