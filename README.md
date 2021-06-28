@@ -29,3 +29,7 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&&custom_title=Minhas Estatísticas do GitHub" alt="Estatísticas do GitHub" width="700">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Minhas Estatísticas do WakaTime" alt="Tempo gasto nas linguagens" width="700">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
+
+## Animação Snake comendo meus commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
+
+<img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Snake commits" width="700">
