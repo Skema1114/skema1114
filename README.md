@@ -13,7 +13,19 @@ Me chamo **Rafael Aranda Martins** e admiro muito qualquer aspecto da tecnologia
 
 ## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25px">
 
-<img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Skema1114" alt="GitHub Badge" width="auto"> <img src="https://img.shields.io/badge/-Skema1114-blueviolet?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Skema1114" alt="GitLab Badge" width="auto"> <img src="https://img.shields.io/badge/-Rafael%20Aranda%20Martins-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelarandamartins" alt="LinkeDin Badge" width="auto"> <img src="https://img.shields.io/badge/-Holdiny-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/holdiny" alt="Instagram Badge" width="auto">
+<a href="https://github.com/Skema1114">
+  <img align="left" alt="Skema1114 | GitHub" width="35px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
+</a>
+<a href="https://gitlab.com/Skema1114">
+  <img align="left" alt="Skema1114 | GitLab" width="40px" src="https://media.giphy.com/media/hqrdSW7r1DFsDZwSnR/giphy.gif" />
+</a>
+<a href="https://www.linkedin.com/in/rafaelarandamartins/">
+  <img align="left" alt="Rafael Aranda Martins | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" />
+</a>
+<a href="https://www.instagram.com/holdiny/">
+  <img align="left" alt="Holdiny | Instagram" width="38px" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" />
+</a>
+<br/>
 
 ## Estatísticas das Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
