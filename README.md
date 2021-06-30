@@ -48,6 +48,10 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens" width="700">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
+## Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
+
+[![Spotify](https://novatorem-skema1114.vercel.app/api/spotify)](https://open.spotify.com/user/skema1114)
+
 ## Animação snake nos meus commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
 
 <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Snake commits" width="700">
