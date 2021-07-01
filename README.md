@@ -48,7 +48,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programa√ß√
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens" width="700">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
-## Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
+## Ouvi/Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
 
 [![Spotify](https://novatorem-skema1114.vercel.app/api/spotify)](https://open.spotify.com/user/skema1114)
 
