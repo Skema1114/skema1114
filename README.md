@@ -2,7 +2,7 @@
 
 # Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
 
-Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programação e games. Fico fascinado na velocidade em que essas coisas vem evoluindo e junto disso busco pegar uma caroninha e também buscar a evolução constante.
+Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programação e games. Fico fascinado na velocidade em que essas coisas vem evoluindo e junto disso procuro pegar uma caroninha em busca da minha evolução pessoal e profissional.
 
 <img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor Trainee na DBSystem;
 <br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL** e **Java**;
@@ -45,7 +45,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 ## Estatísticas Gerais do WakaTime <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens" width="700">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&langs_count=5" alt="Tempo gasto nas linguagens" width="700">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
 ## Ouvi/Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
