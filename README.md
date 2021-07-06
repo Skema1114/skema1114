@@ -33,7 +33,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 ## Estatísticas das Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
 <!-- TODO-IST:START -->
-<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **2,075** pontos de Karma;           
+<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **2,161** pontos de Karma;           
 <img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **20** tarefas hoje;           
 <img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20px"> Completei **62** tarefas no total;           
 <img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **2** dias;
