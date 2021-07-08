@@ -33,7 +33,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 ## Estatísticas das Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
 <!-- TODO-IST:START -->
-<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **2,523** pontos de Karma;           
+<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **2,437** pontos de Karma;           
 <img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **3** tarefas hoje;           
 <img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20px"> Completei **71** tarefas no total;           
 <img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **4** dias;
@@ -73,19 +73,17 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 <br/>
 <br/>
 
-    *Para ver os repositórios dos criadores destes componentes acima, basta clicar em um deles e será redirecionado.
+    *Para ver os repositórios dos criadores destes componentes acima, basta clicar em um deles e será redirecionado
+    ou clique abaixo para ver o repo do dev das 'Estatísticas das Tarefas do Todoist';
+
+   <a href="https://github.com/abhisheknaiidu/todoist-readme">Estatísticas das Tarefas do Todoist</a>
 
 <!--
 <details>
-  <summary>Me encontre (non-business)</summary>
+  <summary>Referências</summary>
 
   <br />
   
-  <a href="https://www.instagram.com/holdiny/">
-    <img align="left" alt="Holdiny | Instagram" width="38px" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" />
-  </a>
-  <a href="https://open.spotify.com/user/skema1114">
-    <img align="left" alt="Skema1114 | Spotify" width="34px" src="https://media.giphy.com/media/alxwuUFuJmVEJb3PDg/giphy.gif" />
-  </a>
+  <a href="https://github.com/Platane/snk" target="_blank">Snake Commits</a>
 </details>
 -->
