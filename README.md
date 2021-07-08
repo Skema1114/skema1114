@@ -44,7 +44,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub" width="700">
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/demo/" target="_blank">
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub" width="700">
 </a>
   
