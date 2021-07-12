@@ -93,3 +93,6 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programa√ß√
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true"/>
 </div>
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
