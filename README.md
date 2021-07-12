@@ -78,6 +78,8 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
    <a href="https://github.com/abhisheknaiidu/todoist-readme">Estatísticas das Tarefas do Todoist</a>
 
+## Mais estatísticas <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
