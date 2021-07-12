@@ -51,7 +51,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 ## Estatísticas Gerais do WakaTime <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação" width="700">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens de programação" width="700">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação" width="700">
