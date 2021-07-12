@@ -87,3 +87,9 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programa√ß√
   <a href="https://github.com/Platane/snk" target="_blank">Snake Commits</a>
 </details>
 -->
+<!--
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true"/>
+</div>
+-->
