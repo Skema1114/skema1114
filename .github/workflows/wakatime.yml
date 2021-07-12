@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.RP_UR_ID }}
           LOCALE: "pt_BR"
           SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "True" 
