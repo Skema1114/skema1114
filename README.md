@@ -78,6 +78,9 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
    <a href="https://github.com/abhisheknaiidu/todoist-readme">Estatísticas das Tarefas do Todoist</a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 <details>
   <summary>Referências</summary>
@@ -94,5 +97,4 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 </div>
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
