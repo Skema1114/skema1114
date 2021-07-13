@@ -43,10 +43,10 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub">
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub">
+    <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub">
   </a>
 </div>
 
@@ -54,10 +54,10 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="425em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens de programação">
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens de programação">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="470em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação">
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação">
 </a>
  </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
