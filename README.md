@@ -33,52 +33,48 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 ## Estatísticas das Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
 <!-- TODO-IST:START -->
-<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **2,933** pontos de Karma;           
-<img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **2** tarefas hoje;           
-<img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20px"> Completei **99** tarefas no total;           
-<img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **8** dias;
+<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **2,909** pontos de Karma;           
+<img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **1** tarefas hoje;           
+<img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20px"> Completei **98** tarefas no total;           
+<img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **7** dias;
 <!-- TODO-IST:END -->
 
 ## Estatísticas Gerais do GitHub <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub" width="700">
-</a>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub" width="700">
-</a>
-  
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub">
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub">
+  </a>
+</div>
+
 ## Estatísticas Gerais do WakaTime <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
 
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens de programação" width="700">
+  <img width="425em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens de programação">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação" width="700">
+  <img width="470em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação">
 </a>
+ </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
 ## Ouvi/Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
 
 <a href="https://github.com/novatorem/novatorem" target="_blank">
-  <img src="https://novatorem-skema1114.vercel.app/api/spotify" alt="Componente do Spotify" width="700">
+  <img src="https://novatorem-skema1114.vercel.app/api/spotify" alt="Componente do Spotify" width="500em">
 </a>
   
 ## Animação snake nos meus commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
 
 <a href="https://github.com/Platane/snk" target="_blank">
-  <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="700">
+  <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="500em">
 </a>
 
-<br/>
-<br/>
-
-    *Para ver os repositórios dos criadores destes componentes acima, basta clicar em um deles e será redirecionado
-    ou clique abaixo para ver o repo do dev das 'Estatísticas das Tarefas do Todoist';
-
-   <a href="https://github.com/abhisheknaiidu/todoist-readme">Estatísticas das Tarefas do Todoist</a>
-
-## Mais estatísticas <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
+## Mais algumas estatísticas (porque nunca é de mais hehe) <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
@@ -146,7 +142,40 @@ C                        2 repos             █░░░░░░░░░░�
  Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
 
+<br />
+
+<details>
+  <summary>REFERÊNCIAS <img src="https://media.giphy.com/media/3o7buiqNUqfJjifxLi/giphy.gif" width="20px"></summary>
+  <br />
+  
+  - Componente `Estatísticas das Tarefas do Todoist`
+    - https://github.com/abhisheknaiidu/todoist-readme
+  
+  - Componente `Estatísticas Gerais do GitHub`
+    - https://github.com/anuraghazra/github-readme-stats
+    - https://github.com/denvercoder1/github-readme-streak-stats
+  
+  - Componente `Estatísticas Gerais do WakaTime`
+    - https://github.com/anuraghazra/github-readme-stats
+  
+  - Componente `Ouvi/Estou ouvindo no momento`
+    - https://github.com/novatorem/novatorem
+  
+  - Componente `Animação snake nos meus commits`
+    - https://github.com/Platane/snk
+  
+  - Componente `Mais algumas estatísticas (porque nunca é de mais hehe)`
+    - https://github.com/anmol098/waka-readme-stats
+  
+  - Workflows
+    - https://github.com/Platane
+    - https://github.com/abhisheknaiidu
+    - https://github.com/anmol098
+    - https://github.com/mishmanners
+</details>
+
 <!--
+UPDATES/IDEIAS FUTURAS TALVEZ
 <details>
   <summary>Referências</summary>
 
@@ -161,5 +190,3 @@ C                        2 repos             █░░░░░░░░░░�
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true"/>
 </div>
 -->
-
-
