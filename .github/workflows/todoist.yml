@@ -1,4 +1,4 @@
-name: Atualizar Todoist
+name: Todoist Update
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
       
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Todoist Update
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
