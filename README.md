@@ -54,7 +54,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Tempo gasto nas linguagens de programação">
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação">
