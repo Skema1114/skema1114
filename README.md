@@ -74,7 +74,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
   <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="500em">
 </a>
 
-## Mais algumas estatísticas (porque nunca é de mais hehe) <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
+## Mais algumas estatísticas (porque nunca é demais hehe) <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-5.7%20million%20linhas%20de%20c%C3%B3digo-blue)
