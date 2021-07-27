@@ -34,7 +34,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 <!-- TODO-IST:START -->
 <img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **3,798** pontos de Karma;           
-<img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **7** tarefas hoje;           
+<img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **0** tarefas hoje;           
 <img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20px"> Completei **135** tarefas no total;           
 <img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **8** dias;
 <!-- TODO-IST:END -->
