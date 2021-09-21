@@ -67,8 +67,8 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 ## Ouvi/Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
 
-<a href="https://github.com/novatorem/novatorem" target="_blank">
-  <img src="https://novatorem-skema1114.vercel.app/api/spotify" alt="Componente do Spotify" width="500em">
+<a href="https://github.com/sndrjhlncgr/README-Spotify-Status" target="_blank">
+  <img src="https://readme-spotify-status-d40h2c8oh-skema1114.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500em">
 </a>
   
 ## Animação snake nos meus commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
@@ -162,7 +162,8 @@ C                        2 repos             █░░░░░░░░░░�
     - https://github.com/anuraghazra/github-readme-stats
   
   - Componente `Ouvi/Estou ouvindo no momento`
-    - https://github.com/novatorem/novatorem
+    - https://github.com/sndrjhlncgr/README-Spotify-Status
+    - https://github.com/novatorem/novatorem (utilizado anteriormente)
   
   - Componente `Animação snake nos meus commits`
     - https://github.com/Platane/snk
