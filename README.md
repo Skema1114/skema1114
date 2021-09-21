@@ -48,6 +48,9 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
     <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub">
   </a>
+  <a>
+    <img width="500em" src="https://activity-graph.herokuapp.com/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub">
+  </a>
 </div>
 
 ## Estatísticas Gerais do WakaTime <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
@@ -153,6 +156,7 @@ C                        2 repos             █░░░░░░░░░░�
   - Componente `Estatísticas Gerais do GitHub`
     - https://github.com/anuraghazra/github-readme-stats
     - https://github.com/denvercoder1/github-readme-streak-stats
+    - https://github.com/Ashutosh00710/github-readme-activity-graph
   
   - Componente `Estatísticas Gerais do WakaTime`
     - https://github.com/anuraghazra/github-readme-stats
