@@ -172,7 +172,7 @@ C                        2 repos             █░░░░░░░░░░�
   - Componente `Animação snake nos meus commits`
     - https://github.com/Platane/snk
   
-  - Componente `Mais algumas estatísticas (porque nunca é de mais hehe)`
+  - Componente `Mais algumas estatísticas (nunca é de mais hehe)`
     - https://github.com/anmol098/waka-readme-stats
   
   - Workflows
