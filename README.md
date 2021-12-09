@@ -80,7 +80,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 ## Mais algumas estatísticas (nunca é demais hehe) <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-912%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -145,7 +145,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 <br />
