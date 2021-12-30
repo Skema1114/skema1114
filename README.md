@@ -79,6 +79,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 ## Mais algumas estatísticas (nunca é demais hehe) <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
 
+![](https://komarev.com/ghpvc/?username=Skema1114)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%209%20mins-blue)
 
@@ -175,6 +176,7 @@ C                        2 repos             █░░░░░░░░░░�
     - https://github.com/Platane/snk
   
   - Componente `Mais algumas estatísticas (nunca é de mais hehe)`
+    - https://github.com/antonkomarev/github-profile-views-counter
     - https://github.com/anmol098/waka-readme-stats
   
   - Workflows
