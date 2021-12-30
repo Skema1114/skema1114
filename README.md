@@ -45,24 +45,26 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img width="500em" src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub">
   </a>
+  <br />
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
     <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub">
   </a>
-  <a>
-    <img width="500em" src="https://activity-graph.herokuapp.com/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub">
+  <br />
+  <a> <img width="500em" src="https://activity-graph.herokuapp.com/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub">
   </a>
 </div>
 
 ## Estatísticas Gerais do WakaTime <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação">
-</a>
- </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação">
+  </a>
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação">
+  </a>
+</div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
 ## Ouvi/Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
@@ -79,7 +81,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 ## Mais algumas estatísticas (nunca é demais hehe) <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=Skema1114)
+![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%209%20mins-blue)
 
