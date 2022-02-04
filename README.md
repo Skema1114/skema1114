@@ -73,7 +73,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
   <img src="https://readme-spotify-status-zizrz7qj9-skema1114.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500em">
 </a>
   
-## Animação snake nos meus commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
+## Animação snake nos commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
 
 <a href="https://github.com/Platane/snk" target="_blank">
   <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="500em">
@@ -172,7 +172,7 @@ HTML                     3 repos             █░░░░░░░░░░�
     - https://github.com/sndrjhlncgr/README-Spotify-Status
     - https://github.com/novatorem/novatorem (utilizado anteriormente)
   
-  - Componente `Animação snake nos meus commits`
+  - Componente `Animação snake nos commits`
     - https://github.com/Platane/snk
   
   - Componente `Mais algumas estatísticas (nunca é de mais hehe)`
