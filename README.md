@@ -6,10 +6,8 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 
 <img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor de Software na DBSystem;
 <br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL**, **Flutter** e **Java**;
-<br/> <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="20px"> &nbsp; Meu **objetivo principal** é ganhar bastante experiencia e buscar conhecimento para as stacks citadas acima;
-<br/> <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" width="20px"> &nbsp; Já o meu **plano B** é ser um desenvolvedor de games;
-<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20px"> &nbsp; E como **missão opcional** eu estou buscando melhorar minhas habilidades de Photoshop e edição de vídeo;
-<br/> <img src="https://media.giphy.com/media/kgT17txp60zHoNlstY/giphy.gif" width="20px"> &nbsp; Mas a real é que eu quero unir tudo isso de alguma forma;
+<br/> <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="20px"> &nbsp; Atualmente estou upando minhas habilidades nas tecnologias citadas acima;
+<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20px"> &nbsp; Curto também Photoshop e edição de vídeo;
 
 ## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25px">
 
