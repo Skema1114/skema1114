@@ -2,12 +2,11 @@
 
 # Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
 
-Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programação e games. Fico fascinado na velocidade em que essas coisas vem evoluindo e junto disso procuro pegar uma caroninha em busca da minha evolução pessoal e profissional.
+Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, programação e games.
 
-<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor de Software na DBSystem;
+<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; **Desenvolvedor de Software** na **DBSystem**;
 <br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL**, **Flutter** e **Java**;
-<br/> <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="20px"> &nbsp; Atualmente estou upando minhas habilidades nas tecnologias citadas acima;
-<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20px"> &nbsp; Curto também Photoshop e edição de vídeo;
+<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20px"> &nbsp; **Photoshop** e **Edição de vídeo** me interessam;
 
 ## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25px">
 
