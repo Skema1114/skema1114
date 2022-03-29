@@ -67,7 +67,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
-## Ouvi/ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
+## Ouvi/ouvindo <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
 
 <a href="https://github.com/sndrjhlncgr/README-Spotify-Status" target="_blank">
   <img src="https://readme-spotify-status-zizrz7qj9-skema1114.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500em">
@@ -168,7 +168,7 @@ C                        2 repos             █░░░░░░░░░░�
   - Componente `Visão geral (WakaTime)`
     - https://github.com/anuraghazra/github-readme-stats
   
-  - Componente `Ouvi/ouvindo no momento`
+  - Componente `Ouvi/ouvindo`
     - https://github.com/sndrjhlncgr/README-Spotify-Status
     - https://github.com/novatorem/novatorem (utilizado anteriormente)
   
