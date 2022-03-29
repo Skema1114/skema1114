@@ -30,7 +30,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 </a>
 <br />
 
-## Estatísticas das Tarefas do Todoist <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
+## Visão geral (Todoist) <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
 
 <!-- TODO-IST:START -->
 <img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **6,416** pontos de Karma;           
@@ -39,7 +39,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 <img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **8** dias;
 <!-- TODO-IST:END -->
 
-## Estatísticas Gerais do GitHub <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
+## Visão geral (GitHub) <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -54,7 +54,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
   </a>
 </div>
 
-## Estatísticas Gerais do WakaTime <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
+## Visão geral (WakaTime) <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -67,19 +67,19 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programaç�
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
-## Ouvi/Estou ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
+## Ouvi/ouvindo no momento <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
 
 <a href="https://github.com/sndrjhlncgr/README-Spotify-Status" target="_blank">
   <img src="https://readme-spotify-status-zizrz7qj9-skema1114.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500em">
 </a>
   
-## Animação snake nos commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
+## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
 
 <a href="https://github.com/Platane/snk" target="_blank">
   <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="500em">
 </a>
 
-## Mais algumas estatísticas (nunca é demais hehe) <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
+## Mais estatísticas?? <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 <!--START_SECTION:waka-->
@@ -157,25 +157,25 @@ C                        2 repos             █░░░░░░░░░░�
   <summary>REFERÊNCIAS <img src="https://media.giphy.com/media/3o7buiqNUqfJjifxLi/giphy.gif" width="20px"></summary>
   <br />
   
-  - Componente `Estatísticas das Tarefas do Todoist`
+  - Componente `Visão geral (Todoist)`
     - https://github.com/abhisheknaiidu/todoist-readme
   
-  - Componente `Estatísticas Gerais do GitHub`
+  - Componente `Visão geral (GitHub)`
     - https://github.com/anuraghazra/github-readme-stats
     - https://github.com/denvercoder1/github-readme-streak-stats
     - https://github.com/Ashutosh00710/github-readme-activity-graph
   
-  - Componente `Estatísticas Gerais do WakaTime`
+  - Componente `Visão geral (WakaTime)`
     - https://github.com/anuraghazra/github-readme-stats
   
-  - Componente `Ouvi/Estou ouvindo no momento`
+  - Componente `Ouvi/ouvindo no momento`
     - https://github.com/sndrjhlncgr/README-Spotify-Status
     - https://github.com/novatorem/novatorem (utilizado anteriormente)
   
-  - Componente `Animação snake nos commits`
+  - Componente `Snake commits`
     - https://github.com/Platane/snk
   
-  - Componente `Mais algumas estatísticas (nunca é de mais hehe)`
+  - Componente `Mais estatísticas??`
     - https://github.com/antonkomarev/github-profile-views-counter
     - https://github.com/anmol098/waka-readme-stats
   
