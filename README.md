@@ -4,8 +4,8 @@
 
 Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia, programação e games. Fico fascinado na velocidade em que essas coisas vem evoluindo e junto disso procuro pegar uma caroninha em busca da minha evolução pessoal e profissional.
 
-<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor Trainee na DBSystem;
-<br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL** e **Java**;
+<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; Desenvolvedor de Software na DBSystem;
+<br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL**, **Flutter** e **Java**;
 <br/> <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="20px"> &nbsp; Meu **objetivo principal** é ganhar bastante experiencia e buscar conhecimento para as stacks citadas acima;
 <br/> <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" width="20px"> &nbsp; Já o meu **plano B** é ser um desenvolvedor de games;
 <br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20px"> &nbsp; E como **missão opcional** eu estou buscando melhorar minhas habilidades de Photoshop e edição de vídeo;
