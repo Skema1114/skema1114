@@ -1,42 +1,42 @@
 <img src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png" width="auto">
 
-# Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70px">
+# Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70">
 
 Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, programação e games.
 
-<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20px"> &nbsp; **Desenvolvedor de Software** na **DBSystem**;
-<br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20px"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL**, **Flutter** e **Java**;
-<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20px"> &nbsp; **Photoshop** e **Edição de vídeo** me interessam;
+<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20"> &nbsp; **Desenvolvedor de Software** na **DBSystem**;
+<br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL**, **Flutter** e **Java**;
+<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20"> &nbsp; **Photoshop** e **Edição de vídeo** me interessam;
 
-## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25px">
+## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25">
 
 <a href="https://github.com/Skema1114" target="_blank">
-  <img align="left" alt="Skema1114 | GitHub" width="35px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
+  <img align="left" alt="Skema1114 | GitHub" width="35" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
 </a>
 <a href="https://gitlab.com/Skema1114" target="_blank">
-  <img align="left" alt="Skema1114 | GitLab" width="40px" src="https://media.giphy.com/media/hqrdSW7r1DFsDZwSnR/giphy.gif" />
+  <img align="left" alt="Skema1114 | GitLab" width="40" src="https://media.giphy.com/media/hqrdSW7r1DFsDZwSnR/giphy.gif" />
 </a>
 <a href="https://www.linkedin.com/in/rafaelarandamartins/" target="_blank">
-  <img align="left" alt="Rafael Aranda Martins | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" />
+  <img align="left" alt="Rafael Aranda Martins | LinkedIn" width="40" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" />
 </a>
 <a href="https://www.instagram.com/holdiny/" target="_blank">
-  <img align="left" alt="Holdiny | Instagram" width="38px" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" />
+  <img align="left" alt="Holdiny | Instagram" width="38" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" />
 </a>
 <a href="https://open.spotify.com/user/skema1114" target="_blank">
-  <img align="left" alt="Skema1114 | Spotify" width="34px" src="https://media.giphy.com/media/mN62P1YBvW3HM8VQVj/giphy.gif" />
+  <img align="left" alt="Skema1114 | Spotify" width="34" src="https://media.giphy.com/media/mN62P1YBvW3HM8VQVj/giphy.gif" />
 </a>
 <br />
 
-## Visão geral (Todoist) <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30px">
+## Visão geral (Todoist) <img src="https://media.giphy.com/media/02UcS4abtGiipuMkBa/giphy.gif" width="30">
 
 <!-- TODO-IST:START -->
-<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20px"> Possuo **7,355** pontos de Karma;           
-<img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20px"> Completei **0** tarefas hoje;           
-<img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20px"> Completei **343** tarefas no total;           
-<img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20px"> Sequência mais longa é de **8** dias;
+<img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20"> Possuo **7,355** pontos de Karma;           
+<img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20"> Completei **0** tarefas hoje;           
+<img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20"> Completei **343** tarefas no total;           
+<img src="https://media.giphy.com/media/2iktjYc84MxU9Izzfb/giphy.gif" width="20"> Sequência mais longa é de **8** dias;
 <!-- TODO-IST:END -->
 
-## Visão geral (GitHub) <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px">
+## Visão geral (GitHub) <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30">
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -51,7 +51,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, pr
   </a>
 </div>
 
-## Visão geral (WakaTime) <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30px">
+## Visão geral (WakaTime) <img src="https://media.giphy.com/media/LO2B5x5hUX59Y0off0/giphy.gif" width="30">
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -64,19 +64,19 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, pr
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
-## Ouvi/ouvindo <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30px">
+## Ouvi/ouvindo <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30">
 
 <a href="https://github.com/sndrjhlncgr/README-Spotify-Status" target="_blank">
   <img src="https://readme-spotify-status-zizrz7qj9-skema1114.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500em">
 </a>
   
-## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30px">
+## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30">
 
 <a href="https://github.com/Platane/snk" target="_blank">
   <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="500em">
 </a>
 
-## Mais estatísticas?? <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30px">
+## Mais estatísticas?? <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 <!--START_SECTION:waka-->
@@ -151,7 +151,7 @@ C                        2 repos             █░░░░░░░░░░�
 <br />
 
 <details>
-  <summary>REFERÊNCIAS <img src="https://media.giphy.com/media/3o7buiqNUqfJjifxLi/giphy.gif" width="20px"></summary>
+  <summary>REFERÊNCIAS <img src="https://media.giphy.com/media/3o7buiqNUqfJjifxLi/giphy.gif" width="20"></summary>
   <br />
   
   - Componente `Visão geral (Todoist)`
