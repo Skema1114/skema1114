@@ -80,7 +80,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, pr
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-921%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -145,7 +145,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2022 12:22:00 UTC
+ Last Updated on 13/06/2022 18:14:04 UTC
 <!--END_SECTION:waka-->
 
 <br />
