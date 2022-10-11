@@ -67,7 +67,7 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, pr
 ## Ouvi/ouvindo <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30">
 
 <a href="https://github.com/sndrjhlncgr/README-Spotify-Status" target="_blank">
-  <img src="https://readme-spotify-status-zizrz7qj9-skema1114.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500em">
+  <img src="https://readme-spotify-status-blue.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500">
 </a>
   
 ## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30">
