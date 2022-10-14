@@ -80,9 +80,9 @@ Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, pr
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-920%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-926%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **Eu sou diurno 🐤** 
 
@@ -135,17 +135,17 @@ Windows                  13 hrs 37 mins      ███████████�
 **Eu geralmente programo em TypeScript** 
 
 ```text
-TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   30.43% 
-Java                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   29.79% 
+Java                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   23.4% 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
+Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
 
 ```
 
 
 
- Last Updated on 14/10/2022 06:49:26 UTC
+ Last Updated on 14/10/2022 12:24:05 UTC
 <!--END_SECTION:waka-->
 
 <br />
