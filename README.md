@@ -80,15 +80,15 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-926%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã      109 commits    ████████████░░░░░░░░░░░░░   51.42% 
-🌆 Tarde      78 commits     █████████░░░░░░░░░░░░░░░░   36.79% 
+🌞 Manhã      110 commits    █████████████░░░░░░░░░░░░   51.89% 
+🌆 Tarde      77 commits     █████████░░░░░░░░░░░░░░░░   36.32% 
 🌃 Noite      25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
 🌙 Madrugada  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -96,9 +96,9 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 📅 **Sou mais produtivo em Sexta-Feira** 
 
 ```text
-Segunda-Feira46 commits     █████░░░░░░░░░░░░░░░░░░░░   21.7% 
+Segunda-Feira47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.17% 
 Terça-Feira  36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
-Quarta-Feira 26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+Quarta-Feira 25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
 Quinta-Feira 36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 Sexta-Feira  56 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42% 
 sábado       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
@@ -144,7 +144,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2022 06:57:49 UTC
+ Last Updated on 17/10/2022 12:32:13 UTC
 <!--END_SECTION:waka-->
 
 <br />
