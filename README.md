@@ -83,10 +83,11 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 
 ## Mais estatísticas?? <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%208%20mins-blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114) -->
 
+<!--START_SECTION:waka-->
+![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%208%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-926%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **Eu sou diurno 🐤** 
