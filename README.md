@@ -2,11 +2,11 @@
 
 # Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70">
 
-Me chamo **Rafael Aranda Martins** e sou apaixonado pela tecnologia no geral, programação e games.
+Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programação e games.
 
-<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20"> &nbsp; **Desenvolvedor de Software** na **DBSystem**;
+<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20"> &nbsp; **Desenvolvedor Angular e Flutter** na **DBSystem**;
 <br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL**, **Flutter** e **Java**;
-<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20"> &nbsp; **Photoshop** e **Edição de vídeo** me interessam;
+<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20"> &nbsp; Curto também **Photoshop** e **Edição de vídeos**;
 
 ## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25">
 
@@ -150,7 +150,7 @@ C                        2 repos             █░░░░░░░░░░�
 <br />
 
 <details>
-  <summary>REFERÊNCIAS <img src="https://media.giphy.com/media/3o7buiqNUqfJjifxLi/giphy.gif" width="20"></summary>
+  <summary>Referências Utilizadas <img src="https://media.giphy.com/media/3o7buiqNUqfJjifxLi/giphy.gif" width="20"></summary>
   <br />
   
   - Componente `Visão geral (Todoist)`
