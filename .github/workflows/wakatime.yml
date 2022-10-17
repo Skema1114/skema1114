@@ -20,3 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
+          SYMBOL_VERSION: 2
