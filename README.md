@@ -60,11 +60,11 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação">
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&layout=compact" alt="Tempo gasto nas linguagens de programação">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=12" alt="Tempo gasto nas linguagens de programação">
   </a>
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
@@ -86,7 +86,7 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-142.5%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -150,7 +150,7 @@ Shell                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 23/05/2023 12:16:56 UTC
+ Last Updated on 23/05/2023 06:14:23 UTC
 <!--END_SECTION:waka-->
 
 <br />
