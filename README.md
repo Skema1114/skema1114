@@ -75,11 +75,11 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
   <img src="https://readme-spotify-status-blue.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500">
 </a>
   
-## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30">
+<!--## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30">
 
 <a href="https://github.com/Platane/snk" target="_blank">
   <img src="https://github.com/skema1114/skema1114/blob/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="500">
-</a>
+</a>-->
 
 ## Mais estatísticas?? <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30">
 
