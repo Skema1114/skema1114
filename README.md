@@ -45,15 +45,15 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
-    <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank"> 
-    <img width="500em" src="https://github-readme-activity-graph.vercel.app/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub" width="650">
   </a>
 </div>
 
@@ -61,11 +61,11 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação" width="650">
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=12" alt="Tempo gasto nas linguagens de programação">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=12" alt="Tempo gasto nas linguagens de programação" width="650">
   </a>
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
@@ -73,7 +73,7 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 ## Ouvi/ouvindo <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30">
 
 <a href="https://github.com/sndrjhlncgr/README-Spotify-Status" target="_blank">
-  <img src="https://readme-spotify-status-blue.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="500">
+  <img src="https://readme-spotify-status-blue.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="650">
 </a>
   
 ## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30">
@@ -82,7 +82,7 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skema1114/skema1114/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skema1114/skema1114/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/skema1114/skema1114/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="500">
+  <img src="https://raw.githubusercontent.com/skema1114/skema1114/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="650">
 </picture>
 </a>
 
