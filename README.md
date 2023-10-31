@@ -52,7 +52,8 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
     <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub">
   </a>
   <br />
-  <a> <img width="500em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank"> 
+    <img width="500em" src="https://github-readme-activity-graph.vercel.app/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub">
   </a>
 </div>
 
