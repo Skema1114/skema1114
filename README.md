@@ -90,6 +90,8 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Skema1114)
 
+[![wakatime](https://wakatime.com/badge/user/c6b783a8-c907-4e3d-9c0b-ddb16a57f12a.svg)](https://wakatime.com/@c6b783a8-c907-4e3d-9c0b-ddb16a57f12a)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C579%20hrs%2022%20mins-blue)
 
