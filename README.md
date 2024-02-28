@@ -22,9 +22,6 @@ Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programaçã
 <a href="https://www.instagram.com/holdiny/" target="_blank">
   <img align="left" alt="Holdiny | Instagram" width="38" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" />
 </a>
-<a href="https://open.spotify.com/user/skema1114" target="_blank">
-  <img align="left" alt="Skema1114 | Spotify" width="34" src="https://media.giphy.com/media/mN62P1YBvW3HM8VQVj/giphy.gif" />
-</a>
 
 <!-- <a href="http://gitlab.dbsystem.com.br/rafael.martins" target="_blank">
   <img align="left" alt="GitLab Business" width="120" src="https://img.shields.io/static/v1?label=%20&message=GitLab%20Business&color=orange" />
