@@ -2,11 +2,13 @@
 
 # Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="70">
 
-Me chamo **Rafael Aranda Martins**, sou apaixonado pela tecnologia, programação e games.
+Sou o Rafael Aranda Martins e tenho uma grande paixão pela tecnologia, programação e jogos.
 
-<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20"> &nbsp; **Desenvolvedor Angular e Flutter** na **DBSystem**;
-<br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20"> &nbsp; Adoro **Javascript**, **Typescript**, **SQL**, **Flutter** e **Java**;
-<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20"> &nbsp; Curto também **Photoshop** e **Edição de vídeos**;
+<img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="20"> &nbsp; Atualmente trabalho como Desenvolvedor **Front-end** (**Angular com Typescript**) na DB System; 
+<br/> <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="20"> &nbsp; Mas tenho experiência e habilidade em **Javascript**, **SQL**, **Flutter** e **Java**.
+<br/> <img src="https://media.giphy.com/media/h7u5UOnZx8UQCFCwuR/giphy.gif" width="20"> &nbsp; Além disso, gosto de explorar outras áreas, como **Photoshop** e **Edição de Vídeos**. 
+<br/> <img src="https://media.giphy.com/media/1RJAqFnCVxZouXSf3N/giphy.gif" width="20"> &nbsp; Sempre estou em busca de aprimorar minhas habilidades.
+<br/> <img src="https://media.giphy.com/media/SeVqsWIUHRNtpMaUi0/giphy.gif" width="20"> &nbsp; Sinta-se à vontade para entrar em contato comigo e conhecer mais sobre meu trabalho!
 
 ## Me encontre <img src="https://media.giphy.com/media/SsrZAM7ZOIYwcqx8p6/giphy.gif" width="25">
 
