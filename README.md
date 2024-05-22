@@ -69,12 +69,14 @@ Sou o Rafael Aranda Martins e tenho uma grande paixão pela tecnologia, programa
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skema1114&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="auto"> -->
 
+<!--
 ## Ouvi/ouvindo <img src="https://media.giphy.com/media/zEWGOVLMZjdcdnc73V/giphy.gif" width="30">
 
 <a href="https://github.com/sndrjhlncgr/README-Spotify-Status" target="_blank">
   <img src="https://readme-spotify-status-blue.vercel.app/api/run-spotify-status" alt="Componente do Spotify" width="650">
 </a>
-  
+-->
+
 ## Snake commits <img src="https://media.giphy.com/media/NLu0gwvgUMdxPtAHqS/giphy.gif" width="30">
 
 <a href="https://github.com/Platane/snk" target="_blank">
