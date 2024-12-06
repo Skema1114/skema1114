@@ -81,7 +81,7 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 [![WakaTime Badge](https://wakatime.com/badge/user/c6b783a8-c907-4e3d-9c0b-ddb16a57f12a.svg)](https://wakatime.com/@Skema1114)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-156.2%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -145,7 +145,7 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/12/2024 06:21:59 UTC
+ Last Updated on 06/12/2024 12:26:02 UTC
 <!--END_SECTION:waka-->
 
 <br>
