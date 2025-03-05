@@ -81,9 +81,50 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 [![WakaTime Badge](https://wakatime.com/badge/user/c6b783a8-c907-4e3d-9c0b-ddb16a57f12a.svg)](https://wakatime.com/@Skema1114)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C504%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C505%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-170.2%20million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-170.8%20million%20linhas%20de%20c%C3%B3digo-blue)
+
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã                  19721 commits       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.15 % 
+🌆 Tarde                  36291 commits       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.64 % 
+🌃 Noite                  10627 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.71 % 
+🌙 Madrugada              1015 commits        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.50 % 
+```
+📅 **Sou mais produtivo em Terça-Feira** 
+
+```text
+Segunda-Feira            14770 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.83 % 
+Terça-Feira              14845 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.94 % 
+Quarta-Feira             13682 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.22 % 
+Quinta-Feira             12350 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.25 % 
+Sexta-Feira              10674 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.78 % 
+Sábado                   637 commits         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.94 % 
+Domingo                  696 commits         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.03 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+TypeScript               7 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   86.14 % 
+HTML                     50 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.24 % 
+JSON                     24 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 % 
+
+🔥 Editores: 
+VS Code                  9 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🐱‍💻 Projetos: 
+propulsor-ui             9 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+💻 Sistema operacional: 
+Windows                  9 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
 
 **Eu geralmente programo em TypeScript** 
 
@@ -98,7 +139,7 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 05/03/2025 06:29:04 UTC
+ Last Updated on 05/03/2025 12:31:48 UTC
 <!--END_SECTION:waka-->
 
 <br>
