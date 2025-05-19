@@ -179,6 +179,9 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <details>
   <summary>📚 <strong>Referências dos componentes</strong></summary>
 
+### 🌐 Me encontre
+- [skillicons](https://skillicons.dev)
+
 ### 🏆 Conquistas
 - 💻 **GitHub**
   - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
