@@ -85,6 +85,10 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 ## 🧊 3D
 
+### 🧾 Commits
+
+![Commits3d](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ### 🐍 Snake
 
 <a href="https://github.com/Platane/snk" target="_blank">
@@ -94,10 +98,6 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
       <img src="https://raw.githubusercontent.com/skema1114/skema1114/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="650">
     </picture>
 </a>
-
-### 🧾 Commits
-
-![Commits3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
 
@@ -180,13 +180,13 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <summary>📚 <strong>Referências dos componentes</strong></summary>
 
 ### 🏆 Conquistas
-- **Todoist**
-  - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme)
-- **GitHub**
+- 💻 **GitHub**
   - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   - [denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
   - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
   - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- ✅ **Todoist**
+  - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme)
 
 ### ⏳ WakaTime
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -196,18 +196,18 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 - [sndrjhlncgr/README-Spotify-Status](https://github.com/sndrjhlncgr/README-Spotify-Status)
 - [novatorem/novatorem](https://github.com/novatorem/novatorem)
 
-### 🐍 Snake commits
-- [Platane/snk](https://github.com/Platane/snk)
-
-### 🧾 Commits 3D
-- [Post LinkedIn](https://www.linkedin.com/posts/isaac-gomes-matos_react-node-typescript-activity-7325493355243622400-wOaQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACZI1v8BpHNySvnqCFoliajjVXFMubrLn24)
-- [Action Isaac Gomes](https://github.com/isaac545454/isaac545454/blob/main/.github/workflows/profile-3d.yml)
+### 🧊 3D
+- 🧾 **Commits**
+  - [Post LinkedIn](https://www.linkedin.com/posts/isaac-gomes-matos_react-node-typescript-activity-7325493355243622400-wOaQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACZI1v8BpHNySvnqCFoliajjVXFMubrLn24)
+  - [Action Isaac Gomes](https://github.com/isaac545454/isaac545454/blob/main/.github/workflows/profile-3d.yml)
+- 🐍 **Snake**
+  - [Platane/snk](https://github.com/Platane/snk)
 
 ### 📈 Outras estatísticas
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
-### ⚙️ Workflows de inspiração
+### ⚙️ Perfis/Workflows de inspiração
 - [Platane](https://github.com/Platane)
 - [abhisheknaiidu](https://github.com/abhisheknaiidu)
 - [anmol098](https://github.com/anmol098)
@@ -215,4 +215,3 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 - [isaac545454](https://github.com/isaac545454)
 
 </details>
-
