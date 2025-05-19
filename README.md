@@ -1,4 +1,4 @@
-<img src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png" width="auto">
+<img src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png" width="100%" style="max-width: 1000px;">
 
 # Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="50">
 
@@ -7,7 +7,7 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 - 🚀 Experiência sólida em **Angular**, **TypesCript/JavaScript**, **HTML** e **CSS/SCSS**;
 - 🚀 Já trabalhei com **Flutter**, **Java**, **SQL**, ...
 - 🎨 Gosto de explorar outras áreas como **Photoshop** e **Edição de Vídeos**.
-- 🌱 Sempre em busca de **aprender e crescer**!
+- 📚 Sempre em busca de aprender e evoluir!
 
 <br>
 
@@ -33,6 +33,14 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
     <img src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skema1114&theme=tokyonight" alt="Gráfico das contribuições do GitHub" width="650">
+  </a>
+  <br />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=tokyonight&utcOffset=-3" alt="Gráfico das contribuições do GitHub por dia" width="650">
+  </a>
+  <br />
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub" width="650">
   </a>
@@ -52,7 +60,9 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <br>
 
-## 🏆 Conquistas do GitHub
+## 🏆 Conquistas
+
+### 💻 Github
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -62,7 +72,7 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <br>
 
-## 🏆 Conquistas no Todoist
+### ✅ Todoist
 
 <!-- TODO-IST:START -->
 <img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20"> Possuo **11,301** pontos de Karma;           
@@ -73,7 +83,9 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <br>
 
-## 🐍 Snake Commit
+## 🧊 3D
+
+### 🐍 Snake
 
 <a href="https://github.com/Platane/snk" target="_blank">
     <picture>
@@ -82,6 +94,10 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
       <img src="https://raw.githubusercontent.com/skema1114/skema1114/output/github-contribution-grid-snake.svg" alt="Componente da Snake nos commits" width="650">
     </picture>
 </a>
+
+### 🧾 Commits
+
+![Commits3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
 
@@ -161,35 +177,42 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📝 Referências
 
 <details>
-  <summary>Ver todas</summary>
+  <summary>📚 <strong>Referências dos componentes</strong></summary>
 
-- Componente Visão geral (Todoist)
-    - https://github.com/abhisheknaiidu/todoist-readme
+### 🏆 Conquistas
+- **Todoist**
+  - [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme)
+- **GitHub**
+  - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  - [denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
+  - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-- Componente Visão geral (GitHub)
-    - https://github.com/anuraghazra/github-readme-stats
-    - https://github.com/denvercoder1/github-readme-streak-stats
-    - https://github.com/Ashutosh00710/github-readme-activity-graph
+### ⏳ WakaTime
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
-- Componente Visão geral (WakaTime)
-    - https://github.com/anuraghazra/github-readme-stats
+### 🎧 Spotify (ouvi/ouvindo)
+- [sndrjhlncgr/README-Spotify-Status](https://github.com/sndrjhlncgr/README-Spotify-Status)
+- [novatorem/novatorem](https://github.com/novatorem/novatorem)
 
-- Componente Ouvi/ouvindo
-    - https://github.com/sndrjhlncgr/README-Spotify-Status
-    - https://github.com/novatorem/novatorem (utilizado anteriormente)
+### 🐍 Snake commits
+- [Platane/snk](https://github.com/Platane/snk)
 
-- Componente Snake commits
-    - https://github.com/Platane/snk
+### 🧾 Commits 3D
+- [Post LinkedIn](https://www.linkedin.com/posts/isaac-gomes-matos_react-node-typescript-activity-7325493355243622400-wOaQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACZI1v8BpHNySvnqCFoliajjVXFMubrLn24)
+- [Action Isaac Gomes](https://github.com/isaac545454/isaac545454/blob/main/.github/workflows/profile-3d.yml)
 
-- Componente Mais estatísticas??
-    - https://github.com/antonkomarev/github-profile-views-counter
-    - https://github.com/anmol098/waka-readme-stats
+### 📈 Outras estatísticas
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 
-- Workflows
-    - https://github.com/Platane
-    - https://github.com/abhisheknaiidu
-    - https://github.com/anmol098
-    - https://github.com/mishmanners
+### ⚙️ Workflows de inspiração
+- [Platane](https://github.com/Platane)
+- [abhisheknaiidu](https://github.com/abhisheknaiidu)
+- [anmol098](https://github.com/anmol098)
+- [mishmanners](https://github.com/mishmanners)
+- [isaac545454](https://github.com/isaac545454)
 
 </details>
 
