@@ -3,8 +3,9 @@
 # Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="50">
 
 Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação** e **jogos**.
-- 💻 Trabalho como **Desenvolvedor Front-end** (**Angular com TypeScript**) na **DB System**.
-- 🚀 Experiência sólida em **JavaScript**, **SQL**, **Flutter** e **Java**.
+- 💻 Trabalho como **Dev Front-end** (**Angular/TypeScript/PrimeNG**) na **DB System**.
+- 🚀 Experiência sólida em **Angular**, **TypesCript/JavaScript**, **HTML** e **CSS/SCSS**;
+- 🚀 Já trabalhei com **Flutter**, **Java**, **SQL**, ...
 - 🎨 Gosto de explorar outras áreas como **Photoshop** e **Edição de Vídeos**.
 - 🌱 Sempre em busca de **aprender e crescer**!
 
@@ -12,10 +13,10 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 ## 🌐 Me encontre
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Skema1114)
-[![GitLab](https://img.shields.io/badge/-GitLab-orange?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/Skema1114)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rafaelarandamartins/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/holdiny/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Skema1114)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/Skema1114)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelarandamartins/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/holdiny/)
 
 <br>
 
@@ -46,6 +47,16 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=12" alt="Tempo gasto nas linguagens de programação" width="650">
+  </a>
+</div>
+
+<br>
+
+## 🏆 Conquistas do GitHub
+
+<div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=skema1114&row=1&column=7&theme=dracula&margin-w=15&margin-h=15" alt="Troféis do GitHub" width="650">
   </a>
 </div>
 
