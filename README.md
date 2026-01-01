@@ -110,7 +110,7 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C205%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-177.2%20million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-177.20%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **Eu sou diurno 🐤** 
 
@@ -169,7 +169,7 @@ C++                      2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/01/2026 06:32:19 UTC
+ Last Updated on 01/01/2026 12:33:06 UTC
 <!--END_SECTION:waka-->
 
 <br>
