@@ -26,11 +26,11 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true" alt="Estatísticas gerais do GitHub" width="650">
+    <img src="https://github-readme-stats.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true&cache_seconds=86400" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub" width="650">
+    <img src="https://streak-stats.demolab.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> 
@@ -38,7 +38,7 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
   </a>
   <br />
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=tokyonight&utcOffset=-3" alt="Gráfico das contribuições do GitHub por dia" width="650">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skema1114&theme=tokyonight&utcOffset=-3" alt="Gráfico das contribuições do GitHub por dia" width="650">
   </a>
   <br />
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank"> 
@@ -50,11 +50,11 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3" alt="Tempo gasto nas linguagens de programação" width="650">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3&cache_seconds=86400" alt="Tempo gasto nas linguagens de programação" width="650">
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=12" alt="Tempo gasto nas linguagens de programação" width="650">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=12&cache_seconds=86400" alt="Tempo gasto nas linguagens de programação" width="650">
   </a>
 </div>
 
