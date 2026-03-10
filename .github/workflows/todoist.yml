@@ -16,4 +16,3 @@ jobs:
         uses: skema1114/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          PREMIUM: false
