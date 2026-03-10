@@ -12,9 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Run Todoist stats
         uses: skema1114/todoist-readme@master
         with:
