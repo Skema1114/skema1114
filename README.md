@@ -26,23 +26,23 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats-kappa-beryl-16.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true&cache_seconds=86400" alt="Estatísticas gerais do GitHub" width="650">
+    <img src="https://github-readme-stats-kappa-beryl-16.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true&cache_seconds=86400" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=skema1114&theme=tokyonight&hide_border=true" alt="Estatísticas gerais do GitHub" width="650">
+    <img src="https://streak-stats.demolab.com?user=skema1114&theme=radical&hide_border=true" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skema1114&theme=tokyonight" alt="Gráfico das contribuições do GitHub" width="650">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skema1114&theme=radical" alt="Gráfico das contribuições do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skema1114&theme=tokyonight&utcOffset=-3" alt="Gráfico das contribuições do GitHub por dia" width="650">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skema1114&theme=radical&utcOffset=-3" alt="Gráfico das contribuições do GitHub por dia" width="650">
   </a>
   <br />
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank"> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skema1114&theme=rogue&hide_border=true&hide_title=true&bg_color=1A1B27&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub" width="650">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skema1114&theme=radical&hide_border=true&hide_title=true&bg_color=141321&line=BE91F2&point=70A4FC" alt="Gráfico das contribuições do GitHub" width="650">
   </a>
 </div>
 
@@ -50,11 +50,11 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats-kappa-beryl-16.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&langs_count=3&cache_seconds=86400" alt="Tempo gasto nas linguagens de programação" width="650">
+    <img src="https://github-readme-stats-kappa-beryl-16.vercel.app/api/wakatime?username=Skema1114&theme=radical&hide_border=true&hide_title=true&langs_count=3&cache_seconds=86400" alt="Tempo gasto nas linguagens de programação" width="650">
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats-kappa-beryl-16.vercel.app/api/wakatime?username=Skema1114&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=12&cache_seconds=86400" alt="Tempo gasto nas linguagens de programação" width="650">
+    <img src="https://github-readme-stats-kappa-beryl-16.vercel.app/api/wakatime?username=Skema1114&theme=radical&hide_border=true&hide_title=true&layout=compact&langs_count=12&cache_seconds=86400" alt="Tempo gasto nas linguagens de programação" width="650">
   </a>
 </div>
 
@@ -66,7 +66,7 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://trophy.ryglcloud.net/?username=skema1114&row=1&column=7&theme=dracula&margin-w=15&margin-h=15" alt="Troféis do GitHub" width="650">
+    <img src="https://trophy.ryglcloud.net/?username=skema1114&row=1&column=7&theme=radical&margin-w=15&margin-h=15" alt="Troféis do GitHub" width="650">
   </a>
 </div>
 
