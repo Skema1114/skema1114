@@ -1,16 +1,19 @@
 name: Todoist Update
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
-      
+  workflow_dispatch:
+
 jobs:
   update-readme:
-    name: Todoist Update
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: skema1114/todoist-readme@master
+      - uses: actions/checkout@v3
+
+      - name: Run Todoist stats
+        uses: skema1114/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          PREMIUM: false
