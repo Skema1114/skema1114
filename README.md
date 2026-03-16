@@ -77,7 +77,7 @@ Sou o **Rafael Aranda Martins**, apaixonado por **tecnologia**, **programação*
 <!-- TODO-IST:START -->
 
 <img src="https://media.giphy.com/media/toPQKsvkZn12WROprz/giphy.gif" width="20"> Completei **0** tarefas hoje;<br>
-<img src="https://media.giphy.com/media/iVytKHg54kvEbSOyJe/giphy.gif" width="20"> Completei **2** tarefas essa semana;<br>
+<img src="https://media.giphy.com/media/iVytKHg54kvEbSOyJe/giphy.gif" width="20"> Completei **0** tarefas essa semana;<br>
 <img src="https://media.giphy.com/media/fLfIiS0UhOh2ruaX0m/giphy.gif" width="20"> Completei **1028** tarefas no total;<br>
 <img src="https://media.giphy.com/media/pLdVWrcyYuDbA1gzRC/giphy.gif" width="20"> Tenho **51** tarefas pendentes;
 
