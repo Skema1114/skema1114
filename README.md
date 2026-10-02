@@ -49,7 +49,7 @@ Sou o **Rafael Aranda Martins**, desenvolvedor **Full-Stack Pleno** com **6+ ano
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats-kappa-beryl-16.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true&cache_seconds=86400" alt="Estatísticas gerais do GitHub" width="650">
+    <img src="https://github-stats-extended.vercel.app/api?username=skema1114&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&locale=pt-br&hide_title=true&cache_seconds=86400" alt="Estatísticas gerais do GitHub" width="650">
   </a>
   <br />
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
@@ -241,6 +241,7 @@ Astro                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 🏆 Conquistas
 - 💻 **GitHub**
     - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+    - [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)
     - [denvercoder1/github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
     - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
     - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
