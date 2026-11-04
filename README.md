@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelarandamartins/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" width="36" height="36"></a>
   &nbsp;
-  <a href="https://gitlab.com/Skema1114"><img src="https://api.iconify.design/logos/gitlab.svg" alt="GitLab" width="36" height="36"></a>
+  <a href="https://gitlab.com/Skema1114"><img src="https://api.iconify.design/logos/gitlab-icon.svg" alt="GitLab" width="36" height="36"></a>
   &nbsp;
   <a href="mailto:rafaelmartins.dev@outlook.com"><img src="https://api.iconify.design/mdi/email.svg?color=%230078D4" alt="Enviar e-mail" width="36" height="36"></a>
 </p>
