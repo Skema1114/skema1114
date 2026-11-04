@@ -5,9 +5,11 @@
 <p align="center"><strong>Full-Stack Pleno · Angular + Java · São Borja, RS</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafaelarandamartins/">LinkedIn</a> ·
-  <a href="https://gitlab.com/Skema1114">GitLab</a> ·
-  <a href="mailto:rafaelmartins.dev@outlook.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/rafaelarandamartins/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" width="36" height="36"></a>
+  &nbsp;
+  <a href="https://gitlab.com/Skema1114"><img src="https://api.iconify.design/logos/gitlab.svg" alt="GitLab" width="36" height="36"></a>
+  &nbsp;
+  <a href="mailto:rafaelmartins.dev@outlook.com"><img src="https://api.iconify.design/mdi/email.svg?color=%230078D4" alt="Enviar e-mail" width="36" height="36"></a>
 </p>
 
 Há **8 anos** desenvolvo software. Hoje trabalho em sistemas de logística aduaneira, unindo minha experiência em **Angular** ao back-end com **Java**.
