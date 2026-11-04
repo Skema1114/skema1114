@@ -1,47 +1,38 @@
-<img src="https://github.com/Skema1114/Skema1114/blob/master/bannerAjustado.png" width="100%" style="max-width: 1000px;">
+<img src="./bannerAjustado.png" alt="Banner do perfil de Rafael Aranda Martins" width="100%">
 
-# Heey, tudo bem? <img src="https://media.giphy.com/media/dQfy9FUJVk0qPUcZKs/giphy.gif" width="50">
+# Rafael Aranda Martins
 
-Sou o **Rafael Aranda Martins**, desenvolvedor **Full-Stack Pleno** com **6+ anos de estrada** construindo sistemas web empresariais, da landing page ao ERP. Apaixonado por **tecnologia**, **programação** e **jogos**.
+**Desenvolvedor Full-Stack Pleno | Angular, TypeScript e Java | São Borja, RS**
 
-### 🎯 No meu dia a dia
+Trabalho há **8 anos** com desenvolvimento de software. Meu foco é construir e evoluir sistemas empresariais, especialmente para logística aduaneira e gestão documental. Tenho mais experiência no front-end com Angular e, desde 2025, também atuo no back-end com Java.
 
-- 💻 **Full-Stack Developer** na **DB System** desde **2021**, **atualmente** atuando como **full-stack** em projeto legado de **modernização aduaneira**, implementando toda a camada de **gerenciamento aduaneiro** e a integração com a **API Recintos da Receita Federal** (sistema obrigatório que recintos alfandegados precisam expor para reportar movimentação de cargas, prazos e compliance fiscal ao **Siscomex**);
-  - 🛂 **Histórico** na DB System em sistemas web de **logística aduaneira** e **gestão documental** (MIC, CRT, notas fiscais) na fronteira **Brasil–Argentina**;
-  - 🎨 **Front-end** com **Angular (v14 → v18)**, **Angular JS legado**, **TypeScript**, **RxJS**, **NgRx**, **PrimeNG**, **Angular Material**, **SCSS**, além de testes com **Cypress**, **Karma** e **Jasmine**;
-  - ⚙️ **Back-end** com **Java EE / Jakarta EE** (projeto legado atual) e **Spring Boot** (projetos anteriores), **APIs REST** e integrações com sistemas legados;
-  - 📱 Mobile em produção com **Flutter** e **React Native**;
-  - 🗄️ Bancos: **PostgreSQL**, **Oracle**, **MongoDB**, **SQLite**, **SQL Server**.
+### O que tenho feito
 
-### 🛤️ Caminhada dev
+- Na **DB System**, desenvolvi interfaces Angular para operações de importação e exportação na fronteira Brasil–Argentina, incluindo fluxos de MIC, CRT e notas fiscais. Migrei a aplicação do **Angular 14 ao 18** sem interromper a operação.
+- Desde **setembro de 2025**, atuo como full-stack na modernização de um sistema aduaneiro. Trabalho com **Java EE / Jakarta EE**, **Spring Boot**, APIs REST e integração com a **API Recintos da Receita Federal**.
+- Antes disso, desenvolvi aplicativos com **Flutter** e **React Native** no **Grupo Scalco**, além de sistemas para clientes na **Missões Júnior** e ferramentas internas integradas a ERP no **Grupo Santa Clara Calçados**.
 
-- 🏁 Comecei em **2015** no **SENAC** (Técnico em Informática) e em **2017** no **IFFar** (Bacharelado em Sistemas de Informação), com projetos de **tecnologias assistivas** (óculos para deficientes auditivos em C++/React Native/Arduino, ABCDown educacional, ProdApp rural);
-  - 🚀 Passei por **Missões Júnior** (Dev + Gerente de Projetos), **Grupo Santa Clara Calçados** (Suporte T.I. + ferramentas internas integradas ao ERP), **Grupo Scalco** (apps Flutter → React Native, dashboards de vendas);
-  - 🏢 Hoje na **DB System** atuando como **full-stack** no projeto legado de **modernização aduaneira**, implementando o gerenciamento aduaneiro e a integração obrigatória com a **API Recintos da Receita Federal**. Antes disso, foco no **front-end Angular** das plataformas operadas diariamente nos recintos da fronteira; migrei o app por **5 versões majors do Angular** (v14 → v18) sem downtime.
+### Tecnologias
 
-### 🤖 Em formação em IA Aplicada
+| Área | Tecnologias com que trabalhei |
+| --- | --- |
+| Front-end | Angular, TypeScript, RxJS, NgRx, PrimeNG, Angular Material, SCSS |
+| Back-end | Java EE / Jakarta EE, Spring Boot, APIs REST |
+| Mobile | Flutter, React Native |
+| Dados e testes | PostgreSQL, Oracle, SQL Server, Cypress, Karma, Jasmine |
 
-- 🎓 Cursando **Pós-graduação em Engenharia de Software com ênfase em IA Aplicada** (**UNIPDS** · iniciada em **04/2026**);
-  - 📡 Estudando **LLMs** (Claude, GPT, Gemini), **RAG** (Retrieval-Augmented Generation), **embeddings**, **busca semântica** e **prompt engineering** aplicado a produto;
-  - 🛠️ Construindo projetos integrando IA via **Spring AI**, **pgvector** e APIs da **Anthropic / OpenAI / Google**;
-  - 💡 Filosofia: **IA como ferramenta de engenharia, não como muleta**, fundamento técnico em primeiro lugar.
+### Formação e interesses
 
-### 🌱 Além do código
+Sou bacharel em **Sistemas de Informação pelo IFFar** e técnico em Informática pelo **Senac RS**. Meu TCC, um protótipo vestível de auxílio visual para pessoas com dificuldades auditivas, recebeu nota máxima. O aplicativo **ProdApp** ficou em primeiro lugar no concurso São Borja.APK de 2017.
 
-- 🎨 Curto **Photoshop** e **edição de vídeos**;
-  - 🎮 Gamer nas horas vagas;
-  - 📚 Aprender e evoluir todo dia é o que me move.
+Estou cursando **pós-graduação em Engenharia de Software com ênfase em IA Aplicada na UNIPDS**. Estudo LLMs, RAG e busca semântica para entender como integrar IA a produtos com critérios de engenharia. Fora do trabalho, gosto de jogos, edição de imagens e vídeos.
 
-<br>
+### Contato
 
-## 🌐 Me encontre
+[LinkedIn](https://www.linkedin.com/in/rafaelarandamartins/) · [GitLab](https://gitlab.com/Skema1114) · [E-mail](mailto:rafaelmartins.dev@outlook.com)
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Skema1114)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/Skema1114)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelarandamartins/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/holdiny/)
-
-<br>
+<details>
+<summary>Estatísticas e atividades do GitHub</summary>
 
 ## 📊 Minhas estatísticas
 
@@ -231,6 +222,8 @@ Astro                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <br>
+
+</details>
 
 ## 📝 Referências
 
