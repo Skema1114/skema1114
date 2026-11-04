@@ -1,40 +1,33 @@
 <img src="./bannerAjustado.png" alt="Banner do perfil de Rafael Aranda Martins" width="100%">
 
-# Rafael Aranda Martins
+<h1 align="center">Oi, eu sou o Rafael 👋</h1>
 
-**Desenvolvedor Full-Stack Pleno | Angular, TypeScript e Java | São Borja, RS**
+<p align="center"><strong>Full-Stack Pleno · Angular + Java · São Borja, RS</strong></p>
 
-Trabalho há **8 anos** com desenvolvimento de software. Meu foco é construir e evoluir sistemas empresariais, especialmente para logística aduaneira e gestão documental. Tenho mais experiência no front-end com Angular e, desde 2025, também atuo no back-end com Java.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaelarandamartins/">LinkedIn</a> ·
+  <a href="https://gitlab.com/Skema1114">GitLab</a> ·
+  <a href="mailto:rafaelmartins.dev@outlook.com">E-mail</a>
+</p>
 
-### O que tenho feito
+Há **8 anos** desenvolvo software. Hoje trabalho em sistemas de logística aduaneira, unindo minha experiência em **Angular** ao back-end com **Java**.
 
-- Na **DB System**, desenvolvi interfaces Angular para operações de importação e exportação na fronteira Brasil–Argentina, incluindo fluxos de MIC, CRT e notas fiscais. Migrei a aplicação do **Angular 14 ao 18** sem interromper a operação.
-- Desde **setembro de 2025**, atuo como full-stack na modernização de um sistema aduaneiro. Trabalho com **Java EE / Jakarta EE**, **Spring Boot**, APIs REST e integração com a **API Recintos da Receita Federal**.
-- Antes disso, desenvolvi aplicativos com **Flutter** e **React Native** no **Grupo Scalco**, além de sistemas para clientes na **Missões Júnior** e ferramentas internas integradas a ERP no **Grupo Santa Clara Calçados**.
+### 🚀 Em poucas linhas
 
-### Tecnologias
+- **Agora:** modernização aduaneira na **DB System**, com Java EE / Jakarta EE, Spring Boot e integração com a API Recintos da Receita Federal.
+- **Antes:** interfaces Angular para logística e gestão documental na fronteira Brasil–Argentina; migração do Angular **14 ao 18** sem parar a operação.
+- **Também fiz:** apps com Flutter e React Native, sistemas para clientes e ferramentas internas integradas a ERP.
 
-| Área | Tecnologias com que trabalhei |
-| --- | --- |
-| Front-end | Angular, TypeScript, RxJS, NgRx, PrimeNG, Angular Material, SCSS |
-| Back-end | Java EE / Jakarta EE, Spring Boot, APIs REST |
-| Mobile | Flutter, React Native |
-| Dados e testes | PostgreSQL, Oracle, SQL Server, Cypress, Karma, Jasmine |
+### 🧰 Stack
 
-### Formação e interesses
+**Front-end:** Angular · TypeScript · RxJS · NgRx · PrimeNG<br>
+**Back-end:** Java EE / Jakarta EE · Spring Boot · APIs REST<br>
+**Mobile:** Flutter · React Native<br>
+**Dados e testes:** PostgreSQL · Oracle · SQL Server · Cypress
 
-Sou bacharel em **Sistemas de Informação pelo IFFar** e técnico em Informática pelo **Senac RS**. Meu TCC, um protótipo vestível de auxílio visual para pessoas com dificuldades auditivas, recebeu nota máxima. O aplicativo **ProdApp** ficou em primeiro lugar no concurso São Borja.APK de 2017.
+🎓 Bacharel em **Sistemas de Informação pelo IFFar**. Cursando pós em **Engenharia de Software com ênfase em IA Aplicada na UNIPDS**. Meu TCC recebeu nota máxima e o app **ProdApp** venceu o São Borja.APK de 2017.
 
-Estou cursando **pós-graduação em Engenharia de Software com ênfase em IA Aplicada na UNIPDS**. Estudo LLMs, RAG e busca semântica para entender como integrar IA a produtos com critérios de engenharia. Fora do trabalho, gosto de jogos, edição de imagens e vídeos.
-
-### Contato
-
-[LinkedIn](https://www.linkedin.com/in/rafaelarandamartins/) · [GitLab](https://gitlab.com/Skema1114) · [E-mail](mailto:rafaelmartins.dev@outlook.com)
-
-<details>
-<summary>Estatísticas e atividades do GitHub</summary>
-
-## 📊 Minhas estatísticas
+## 📊 Estatísticas
 
 ### 🚀 GitHub
 
@@ -222,8 +215,6 @@ Astro                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <br>
-
-</details>
 
 ## 📝 Referências
 
